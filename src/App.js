@@ -21,6 +21,7 @@ function App() {
       <HashRouter>
         <Routes>
           <Route exact path='/' element={<Top />} />
+          <Route exact path='/top' element={<Top />} />
           <Route exact path='/about' element={<Md text={getAbout()}/>} />
           <Route exact path='/works' element={<Md text={getWorks()}/>} />
           <Route exact path='/products' element={<Md text={getProducts()}/>} />
