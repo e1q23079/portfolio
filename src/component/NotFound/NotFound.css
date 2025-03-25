@@ -1,0 +1,17 @@
+.Center {
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.notFound{
+    padding: 10px;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.msg{
+    font-size: large;
+}

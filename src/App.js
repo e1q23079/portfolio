@@ -12,6 +12,8 @@ import Md from './component/Md/Md';
 
 import {getAbout,getWorks,getLinks, getProducts} from './component/mdDt';
 
+import NotFound from './component/NotFound/NotFound';
+
 function App() {
   return (
     <>
@@ -26,6 +28,7 @@ function App() {
           <Route exact path='/works' element={<Md text={getWorks()}/>} />
           <Route exact path='/products' element={<Md text={getProducts()}/>} />
           <Route exact path='/links' element={<Md text={getLinks()}/>} />
+          <Route exact path='*' element={<NotFound />} />
         </Routes>
       </HashRouter>
     </>
