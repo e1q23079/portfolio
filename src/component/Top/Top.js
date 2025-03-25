@@ -7,7 +7,8 @@ function Top() {
     <>
       <div className="Center">
         <img src={Icon} width='200px' alt='icon'></img>
-        <p className='userName'>e1q23079</p>
+        <p className='userName'>Q23079</p>
+        <p className='userMessage'>色々なプログラムを書いている学生です！！</p>
       </div>
     </>
   )

@@ -3,6 +3,8 @@
 }
 
 .brandName{
+    padding-right: 3px;
+    padding-left: 3px;
     font-weight: bold;
 }
 
@@ -13,4 +15,8 @@
 
 .navLink:hover{
     background-color: #8ED973;
+}
+
+.brandName:hover{
+    background-color: #8ED973;   
 }
