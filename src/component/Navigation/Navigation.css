@@ -5,3 +5,12 @@
 .brandName{
     font-weight: bold;
 }
+
+.navLink{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.navLink:hover{
+    background-color: #8ED973;
+}
