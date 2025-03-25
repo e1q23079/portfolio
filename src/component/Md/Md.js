@@ -1,10 +1,17 @@
 import './Md.css';
-function Md() {
+
+import ReactMarkdown from 'react-markdown';
+
+import remarkGfm from 'remark-gfm';
+
+const Md = ({ text }) => {
   return (
     <>
-        <div className="contents">
-            Md
-        </div>
+      <div className='contents'>
+        <ReactMarkdown remarkPlugins={remarkGfm}>
+          {text}
+        </ReactMarkdown>
+      </div>
     </>
   )
 };

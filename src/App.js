@@ -10,6 +10,8 @@ import Top from './component/Top/Top';
 
 import Md from './component/Md/Md';
 
+import {getAbout,getWorks,getLinks} from './component/mdDt';
+
 function App() {
   return (
     <>
@@ -19,7 +21,9 @@ function App() {
       <HashRouter>
         <Routes>
           <Route exact path='/' element={<Top />} />
-          <Route exact path='/about' element={<Md />} />
+          <Route exact path='/about' element={<Md text={getAbout()}/>} />
+          <Route exact path='/works' element={<Md text={getWorks()}/>} />
+          <Route exact path='/links' element={<Md text={getLinks()}/>} />
         </Routes>
       </HashRouter>
     </>
