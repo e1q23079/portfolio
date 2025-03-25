@@ -12,7 +12,7 @@ function Navigation() {
           <a href='/#'>
             <img className='logo' src={logo} alt='logo' height='50px'></img>
           </a>
-          <Navbar.Brand href="/#">e1q23079's portfolio</Navbar.Brand>
+          <Navbar.Brand className='brandName' href="/#">e1q23079's portfolio</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
