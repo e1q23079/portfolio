@@ -1,6 +1,7 @@
 import aboutText from "../mdData/about";
 import worksText from "../mdData/works";
 import linksText from "../mdData/links";
+import productsText from "../mdData/products";
 
 function getAbout(){
     return aboutText;
@@ -14,4 +15,8 @@ function getLinks(){
     return linksText;
 }
 
-export {getAbout,getWorks,getLinks};
+function getProducts(){
+    return productsText;
+}
+
+export {getAbout,getWorks,getLinks,getProducts};

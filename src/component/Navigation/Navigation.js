@@ -19,6 +19,7 @@ function Navigation() {
               <Nav.Link href="/#">Home</Nav.Link>
               <Nav.Link href="#about">About</Nav.Link>
               <Nav.Link href="#works">Works</Nav.Link>
+              <Nav.Link href="#products">Products</Nav.Link>
               <Nav.Link href="#links">Links</Nav.Link>
             </Nav>
           </Navbar.Collapse>
