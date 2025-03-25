@@ -1,5 +1,6 @@
 const productsText = `
-# products
+# Products
+***
 `
 
 export default productsText;

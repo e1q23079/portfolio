@@ -1,5 +1,6 @@
 const linksText = `
-# links
+# Links
+***
 `
 
 export default linksText;

@@ -1,5 +1,6 @@
 const worksText = `
-# works
+# Works
+***
 `;
 
 export default worksText;

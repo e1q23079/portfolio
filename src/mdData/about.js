@@ -1,5 +1,6 @@
 const aboutText = `
-# about
+# About
+***
 `;
 
 export default aboutText;
