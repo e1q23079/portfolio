@@ -2,7 +2,7 @@ import './App.css';
 
 import { HashRouter, Routes, Route } from 'react-router-dom';
 
-import Navigation from './component/head/Navigation';
+import Navigation from './component/Navigation/Navigation';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 

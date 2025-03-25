@@ -7,7 +7,7 @@ import { Container, Nav, Navbar } from 'react-bootstrap';
 function Navigation() {
   return (
     <>
-      <Navbar expand="lg" className="bg-body-tertiary" fixed='top'>
+      <Navbar expand="lg" className="bg-body-tertiary" fixed='top' collapseOnSelect>
         <Container fluid>
           <a href='/#'>
             <img className='logo' src={logo} alt='logo' height='50px'></img>
