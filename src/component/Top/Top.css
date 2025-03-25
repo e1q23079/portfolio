@@ -15,3 +15,7 @@
 .userMessage{
     font-size: calc(8px + 2vmin);
 }
+
+body{
+    background-color: rgb(236, 231, 225);
+}
