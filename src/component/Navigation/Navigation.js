@@ -9,14 +9,14 @@ function Navigation() {
     <>
       <Navbar expand="lg" className="bg-body-tertiary" fixed='top' collapseOnSelect>
         <Container fluid>
-          <a href='#top'>
+          <a href='#home'>
             <img className='logo' src={logo} alt='logo' height='50px'></img>
           </a>
-          <Navbar.Brand className='brandName' href="#top">Q23079's portfolio</Navbar.Brand>
+          <Navbar.Brand className='brandName' href="#home">Q23079's portfolio</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
-              <Nav.Link href="#top" className='navLink'>Home</Nav.Link>
+              <Nav.Link href="#home" className='navLink'>Home</Nav.Link>
               <Nav.Link href="#about" className='navLink'>About</Nav.Link>
               <Nav.Link href="#works" className='navLink'>Works</Nav.Link>
               <Nav.Link href="#products" className='navLink'>Products</Nav.Link>

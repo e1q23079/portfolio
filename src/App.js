@@ -6,7 +6,7 @@ import Navigation from './component/Navigation/Navigation';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-import Top from './component/Top/Top';
+import Home from './component/Home/Home';
 
 import Md from './component/Md/Md';
 
@@ -22,8 +22,8 @@ function App() {
       </header>
       <HashRouter>
         <Routes>
-          <Route exact path='/' element={<Top />} />
-          <Route exact path='/top' element={<Top />} />
+          <Route exact path='/' element={<Home />} />
+          <Route exact path='/home' element={<Home />} />
           <Route exact path='/about' element={<Md text={getAbout()}/>} />
           <Route exact path='/works' element={<Md text={getWorks()}/>} />
           <Route exact path='/products' element={<Md text={getProducts()}/>} />

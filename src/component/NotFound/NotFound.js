@@ -9,7 +9,7 @@ function NotFound() {
         <img src={Icon} width='200px' alt='icon'></img>
         <p className='notFound'>Not Found</p>
         <p className='message'>お探しのページは見つかりませんでした．</p>
-        <a href='#top' className='message'>トップ</a>
+        <a href='#home' className='message'>トップ</a>
       </div>
     </>
   )

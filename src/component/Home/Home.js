@@ -1,8 +1,8 @@
-import './Top.css';
+import './Home.css';
 
 import Icon from '../../icon.png';
 
-function Top() {
+function Home() {
   return (
     <>
       <div className="Center">
@@ -14,4 +14,4 @@ function Top() {
   )
 };
 
-export default Top;
+export default Home;
