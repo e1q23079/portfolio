@@ -1,6 +1,6 @@
 import './App.css';
 
-import Head from './component/head/Head';
+import Navigation from './component/head/Navigation';
 
 import 'bootstrap/dist/css/bootstrap.min.css'
 
@@ -8,43 +8,8 @@ function App() {
   return (
     <>
       <header>
-        <Head />
+        <Navigation />
       </header>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-      <div>TEST2</div>
-
     </>
   );
 }

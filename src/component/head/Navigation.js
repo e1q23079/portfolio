@@ -1,10 +1,10 @@
 import logo from '../../icon.png';
 
-import './Head.css';
+import './Navigation.css';
 
 import { Container, Nav, Navbar } from 'react-bootstrap';
 
-function Head() {
+function Navigation() {
   return (
     <>
       <Navbar expand="lg" className="bg-body-tertiary" fixed='top'>
@@ -28,4 +28,4 @@ function Head() {
   );
 }
 
-export default Head;
+export default Navigation;
