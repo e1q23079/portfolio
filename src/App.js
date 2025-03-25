@@ -8,6 +8,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Top from './component/Top/Top';
 
+import Md from './component/Md/Md';
+
 function App() {
   return (
     <>
@@ -17,6 +19,7 @@ function App() {
       <HashRouter>
         <Routes>
           <Route exact path='/' element={<Top />} />
+          <Route exact path='/about' element={<Md />} />
         </Routes>
       </HashRouter>
     </>
