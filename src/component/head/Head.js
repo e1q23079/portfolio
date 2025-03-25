@@ -7,7 +7,7 @@ import { Container, Nav, Navbar } from 'react-bootstrap';
 function Head() {
   return (
     <>
-      <Navbar expand="lg" className="bg-body-tertiary">
+      <Navbar expand="lg" className="bg-body-tertiary" fixed='top'>
         <Container fluid>
           <a href='#home'>
             <img className='logo' src={logo} alt='logo' height='50px'></img>
