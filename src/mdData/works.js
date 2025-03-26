@@ -1,7 +1,7 @@
 const worksText = `
 # Works
 ***
-準備中
+![test](${process.env.PUBLIC_URL}/files/test.png)
 `;
 
 export default worksText;
