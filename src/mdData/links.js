@@ -1,7 +1,7 @@
 const linksText = `
 # Links
 ***
-準備中
+![test](/files/preparation.png)
 `
 
 export default linksText;

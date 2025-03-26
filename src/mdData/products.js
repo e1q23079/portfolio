@@ -1,7 +1,7 @@
 const productsText = `
 # Products
 ***
-準備中
+![test](/files/preparation.png)
 `
 
 export default productsText;
