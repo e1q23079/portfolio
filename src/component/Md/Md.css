@@ -2,3 +2,7 @@
     padding: 20px;
     font-size: calc(10px + 1.5vmin);
 }
+
+.image{
+   width: 90vw; 
+}
