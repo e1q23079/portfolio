@@ -9,7 +9,8 @@ const Link = ({node,children,...props}) => {
 }
 
 const Image = ({node,children,...props}) => {
-  return <img src={props.src} className='image' alt=''></img>
+  const newSrc = `${process.env.PUBLIC_URL}${props.src}`;
+  return <img src={newSrc} className='image' alt=''></img>
 }
 
 const Md = ({ text }) => {

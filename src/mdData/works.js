@@ -1,7 +1,7 @@
 const worksText = `
 # Works
 ***
-![test](${process.env.PUBLIC_URL}/files/test.png)
+![test](/files/preparation.png)
 `;
 
 export default worksText;
