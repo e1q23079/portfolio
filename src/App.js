@@ -20,6 +20,10 @@ function App() {
 
   const location = useLocation();
 
+  const today = new Date();
+
+  const year = today.getFullYear();
+
   return (
     <>
       <header>
@@ -35,6 +39,9 @@ function App() {
           <Route exact path='/links' element={<Md text={getLinks()} />} />
           <Route exact path='*' element={<NotFound />} />
         </Routes>
+        <footer>
+          <div className='copyRight'>© 2025-{year} Q23079 All Rights Reserved.</div>
+        </footer>
       </AnimatePresence>
     </>
   );
