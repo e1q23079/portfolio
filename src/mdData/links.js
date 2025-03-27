@@ -1,7 +1,7 @@
 const linksText = `
 # Links
 ***
-![test](/files/preparation.png)
+![](https://skillicons.dev/icons?i=github)
 `
 
 export default linksText;
