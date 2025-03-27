@@ -21,11 +21,19 @@ const Image = ({ node, children, ...props }) => {
   }
 }
 
+const H1 = ({ node, children, ...props }) => {
+  return <h1><span className='section'>|</span> {children}</h1>
+}
+
+const H2 = ({ node, children, ...props }) => {
+  return <h2><span className='section'>|</span> {children}</h2>
+}
+
 const Md = ({ text }) => {
   return (
     <>
       <div className='contents'>
-        <ReactMarkdown remarkPlugins={remarkGfm} components={{ a: Link, img: Image }}>
+        <ReactMarkdown remarkPlugins={remarkGfm} components={{ a: Link, img: Image, h1: H1, h2: H2 }}>
           {text}
         </ReactMarkdown>
       </div>
