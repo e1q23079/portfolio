@@ -16,8 +16,12 @@ const aboutText = `
     - プログラミング，アルゴリズム，コンピュータについて学ぶ
 - [HxSコンピュータ部](https://x.com/hxs_)
     - ハードウェアとソフトウェアの両方に関する知識や技術を学び，実践するクラブ
+    - GitHub
+        - [https://github.com/oithxs](https://github.com/oithxs)
 - [MAGIOT](https://magiot.web.app/)
     - IT×リアル謎解きゲームを開発する学生プロジェクト
+    - GitHub
+        -  [https://github.com/isprg](https://github.com/isprg)
 - [バズるトップ](https://github.com/BazuruTop)
     - 「バズるものを作ろう！！」という目標に向かって活動中！！
 
