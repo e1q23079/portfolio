@@ -40,6 +40,7 @@ function App() {
           <Route exact path='*' element={<NotFound />} />
         </Routes>
         <footer>
+          <hr></hr>
           <div className='copyRight'>© 2025-{year} Q23079 All Rights Reserved.</div>
         </footer>
       </AnimatePresence>
