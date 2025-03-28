@@ -25,6 +25,7 @@ const aboutText = `
 - 大阪工業大学 情報科学部に入学
 - HxSコンピュータ部に入部
 - 学生プロジェクトMAGIOTに加入
+- 基礎ゼミの動画編集を担当
 - 部内コンテスト2023で賞をゲット！！
 - IC科C演習の課題への取り組みの表彰（1位）
 - 謎解き学生プロジェクトの新メンバー教育の教材を作成
@@ -34,49 +35,84 @@ const aboutText = `
 - KC3 Hack2025（ハッカソン）に参加
 - 情報科学部長表彰賞受賞
 
-## 得意言語
-- C言語
-- Python
-- Java
-- JavaScript
-- Arduino言語
+## よく使う言語
+![](https://skillicons.dev/icons?i=c) C言語
+
+![](https://skillicons.dev/icons?i=py) Python
+
+![](https://skillicons.dev/icons?i=java) Java
+
+![](https://skillicons.dev/icons?i=js) JavaScript
+
+![](https://skillicons.dev/icons?i=arduino) Arduino言語
+
+
 ## フロントエンド技術
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- React
-- npm
+![](https://skillicons.dev/icons?i=html) HTML
+
+![](https://skillicons.dev/icons?i=css) CSS
+
+![](https://skillicons.dev/icons?i=bootstrap) Bootstrap
+
+![](https://skillicons.dev/icons?i=js) JavaScript
+
+![](https://skillicons.dev/icons?i=react) React
+
+![](https://skillicons.dev/icons?i=npm) npm
+
 ## バックエンド技術
-- Docker
-- Flask
-- MySQL
-- SQLite
-- Nginx
-- DiscordBot
+![](https://skillicons.dev/icons?i=docker) Docker
+
+![](https://skillicons.dev/icons?i=flask) Flask
+
+![](https://skillicons.dev/icons?i=mysql) MySQL
+
+![](https://skillicons.dev/icons?i=sqlite) SQLite
+
+![](https://skillicons.dev/icons?i=nginx) Nginx
+
+![](https://skillicons.dev/icons?i=bots) DiscordBot
+
 ## 使用ツール
-- Git
-- GitHub
-- Visual Studio Code
-- Visual Studio
-- Android Studio
-- arduino IDE
-- Notinon
-- Canva
-- Figma
-- PowerShell
-- Postman
+![](https://skillicons.dev/icons?i=git) Git
+
+![](https://skillicons.dev/icons?i=github) GitHub
+
+![](https://skillicons.dev/icons?i=vscode) Visual Studio Code
+
+![](https://skillicons.dev/icons?i=visualstudio) Visual Studio
+
+![](https://skillicons.dev/icons?i=androidstudio) Android Studio
+
+![](https://skillicons.dev/icons?i=arduino) arduino IDE
+
+![](https://skillicons.dev/icons?i=notion) Notinon
+
+![](https://skillicons.dev/icons?i=figma) Figma
+
+![](https://skillicons.dev/icons?i=powershell) PowerShell
+
+![](https://skillicons.dev/icons?i=postman) Postman
+
 - Designspark Mechanical
 - Autodesk Fusion
+- Adobe Premiere Pro
 ## 環境
-- Linux
-- Ubuntu
-- Raspberrypi
+![](https://skillicons.dev/icons?i=linux) Linux
+
+![](https://skillicons.dev/icons?i=ubuntu) Ubuntu
+
+![](https://skillicons.dev/icons?i=raspberrypi) Raspberrypi
+
 ## その他
-- MarkDown
-- SVG
-- OpenCV
-- PyTorch
+![](https://skillicons.dev/icons?i=md) MarkDown
+
+![](https://skillicons.dev/icons?i=svg) SVG
+
+![](https://skillicons.dev/icons?i=opencv) OpenCV
+
+![](https://skillicons.dev/icons?i=pytorch) PyTorch
+
 - M5Stick
 `;
 
