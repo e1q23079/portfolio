@@ -4,7 +4,7 @@ const productsText = `
 今まで開発してきたプロダクトです．ぜひご利用ください！！
 
 ※公開が終了になっている場合がございます．予めご了承ください．
-## 「幻宝伝説 関西に眠る記憶」
+## 謎解き×旅RPG「幻宝伝説 関西に眠る記憶」
 ![memoriesThatSleepInKansai](/files/memoriesThatSleepInKansai.png)
 
 関西各地に隠された”秘宝”を巡る謎解き旅へ！関西の名所を舞台にした本格RPG！！
