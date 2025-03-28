@@ -8,19 +8,42 @@
     justify-content: center;
 }
 
-.userName{
+.userName {
     padding: 5px;
     font-size: x-large;
     font-weight: bold;
 }
 
-.userMessage{
+.userMessage {
     font-size: calc(8px + 2vmin);
 }
 
-body{
+body {
     background-color: rgb(236, 231, 225);
     font-family: "Noto Sans JP", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
+}
+
+.backGround {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #8ED973;
+}
+
+.openMes {
+    position: absolute;
+    width: 80vw;
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
 }
