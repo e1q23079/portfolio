@@ -24,6 +24,12 @@ function App() {
 
   const year = today.getFullYear();
 
+  let yearText = year;
+
+  if (year !== 2025) {
+    yearText = `2025-${year}`;
+  }
+
   return (
     <>
       <header>
@@ -41,7 +47,7 @@ function App() {
         </Routes>
         <footer>
           <hr></hr>
-          <div className='copyRight'>© 2025-{year} Q23079 All Rights Reserved.</div>
+          <div className='copyRight'>© {yearText} Q23079 All Rights Reserved.</div>
         </footer>
       </AnimatePresence>
     </>
