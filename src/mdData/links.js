@@ -9,6 +9,9 @@ const linksText = `
 [https://lss.oit.ac.jp/~e1q23079/](https://lss.oit.ac.jp/~e1q23079/)
 
 ※閲覧には学内ネットワークまたはVPNの接続が必要です．
+## 学内ブログ
+[https://cdcs.oit.ac.jp/ic10/?p=651](https://cdcs.oit.ac.jp/ic10/?p=651)
+※閲覧には学内ネットワークまたはVPNの接続が必要です．
 `
 
 export default linksText;
