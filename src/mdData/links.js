@@ -11,6 +11,7 @@ const linksText = `
 ※閲覧には学内ネットワークまたはVPNの接続が必要です．
 ## 学内ブログ
 [https://cdcs.oit.ac.jp/ic10/?p=651](https://cdcs.oit.ac.jp/ic10/?p=651)
+
 ※閲覧には学内ネットワークまたはVPNの接続が必要です．
 `
 
