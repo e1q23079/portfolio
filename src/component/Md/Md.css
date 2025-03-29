@@ -1,5 +1,7 @@
 .contents {
-    padding: 20px;
+    padding-top: 20px;
+    padding-right: 5vw;
+    padding-left: 5vw;
     font-size: calc(10px + 1.5vmin);
 }
 
