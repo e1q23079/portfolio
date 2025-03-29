@@ -118,6 +118,9 @@ const aboutText = `
 ![](https://skillicons.dev/icons?i=pytorch) PyTorch
 
 - M5Stick
+
+## このポートフォリオについて
+このポートフォリオはReactで作成し，GitHub Pagesにデプロイしています．
 `;
 
 export default aboutText;
