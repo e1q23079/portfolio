@@ -4,6 +4,7 @@ const worksText = `
 今まで開発に携わってきた・開発したシステム，作成した作品をいくつか紹介します．
 
 ## 謎解き×旅RPG「幻宝伝説 関西に眠る記憶」
+![memoriesThatSleepInKansai](/files/memoriesThatSleepInKansai.png)
 関西の観光名所を巡りながら謎解きを進めるマルチプレイRPG
 
 「関西情報系学生団体交流会（KC3）」主催のハッカソン，「KC3 Hack2025」にて友人と開発を行った．
@@ -15,12 +16,14 @@ const worksText = `
 - WEBで動作する謎解きRPG
 - Socket.IOを活用し，リアルタイム通信でゲームをプレイできる
 ### 新規性
+![mtsik01](/files/mtsik01.png)
 - キャラクターになりきれる2人プレイRPG
     - 2人の異なる2人の視点で物語を進める
     - 2人の選択によって会話が相互に影響し合う
 - 実在の関西の観光スポット×ファンタジーの融合
     - 関西の観光スポットの観光を疑似体験しながら謎解きを進める
 ### 工夫点
+![mtsik04](/files/mtsik04.png)
 - プレイヤーごとの進行速度の違いに対応
     - 待機ポイントを設定することで，進行のバランスを調節
     - お互いが待機ポイントに到達後，次のステップに移動する
@@ -92,7 +95,7 @@ const worksText = `
     - MySQL
     - Docker
 ### 開発期間
-1カ月程度
+約1カ月
 ### 開発人数
 約10人
 ### コード量
@@ -122,15 +125,15 @@ Discord Botの開発を担当した．
 - フロントエンド
     - HTML
     - CSS
-    - JacaScript
+    - JavaScript
 - バックエンド
     - Python
     - Flask
-    - DidcordBot
+    - Didcord Bot
     - Docker
     - SQLite
 ### 開発期間
-2週間程度
+約2週間
 ### 開発人数
 約10人
 ### コード量
@@ -139,9 +142,10 @@ Discord Botの開発を担当した．
 ### GitHub
 [https://github.com/oithxs/clubroom-observer](https://github.com/oithxs/clubroom-observer)
 ## 百人一首競技タイピング
+![HKTyping](/files/HKTyping.png)
 百人一首でタイピング対決ができるサイト
 
-「文学基礎」の授業で，「小倉百人一首×情報科学」のアイディアを出す課題でアイディアを思いつき，実際に開発を行うことにした．
+「文学基礎」の授業で，「小倉百人一首×情報科学」のアイディアを出す課題で思いつき，実際に開発を行うことにした．
 
 ### コンセプト
 タイピングで競いながら百人一首を学べる
@@ -167,33 +171,9 @@ Discord Botの開発を担当した．
 ### コード量
 約721行
 
-
 ### GitHub
 [https://github.com/e1q23079/HKTyping](https://github.com/e1q23079/HKTyping)
-## ステレオテスト
-スピーカーやイヤホンの左右がわからなくなるので，開発したAndroidのアプリ
 
-Androidアプリ開発の勉強を兼ねて作成
-
-### コンセプト
-スピーカやイヤホンの右と左がわかる
-### 仕様
-- 「右」，「左」のボタンをタップすると，音が鳴る
-### 新規性
-- 右と左がわかるそれだけの機能に絞られ，シンプルであること
-### 工夫点
-- シンプルさを追求
-### 使用技術
-- Android Java
-### 開発期間
-約1カ月
-### 開発形態
-個人開発
-### コード量
-約152行
-
-### GitHub
-[https://github.com/e1q23079/StereoTest](https://github.com/e1q23079/StereoTest)
 ## MimiWoMamoru
 Bluetoothのイヤホンやヘッドホンを使っていると，PCの音量設定が爆音になる現象がよく発生していたため開発した耳を守るためのツール
 ### コンセプト
@@ -208,7 +188,7 @@ PCの爆音設定からあなたの耳を守る
 ### 使用技術
 - Python
 ### 開発期間
-1週間程度
+約1週間
 ### 開発形態
 個人開発
 ### コード量
@@ -218,6 +198,7 @@ PCの爆音設定からあなたの耳を守る
 [https://github.com/e1q23079/MimiWoMamoru](https://github.com/e1q23079/MimiWoMamoru)
 
 ## HITSUDAN
+![HITSUDAN](/files/HITSUDAN.png)
 筆談で会話をする際，字を書くより，WEBアプリにするともっと会話がしやすくなると思い，開発を始めた．
 ### コンセプト
 筆談を簡単に，会話を楽しくする
@@ -241,21 +222,47 @@ PCの爆音設定からあなたの耳を守る
 ### GitHub
 [https://github.com/e1q23079/hitsudan](https://github.com/e1q23079/hitsudan)
 
+## ステレオテスト
+![image05](/files/image05.png)
+スピーカーやイヤホンの左右がわからなくなるので，開発したAndroidのアプリ
+
+Androidアプリ開発の勉強を兼ねて作成
+
+### コンセプト
+スピーカーやイヤホンの右と左がわかる
+### 仕様
+- 「右」，「左」のボタンをタップすると，音が鳴る
+### 新規性
+- 右と左がわかるそれだけの機能に絞られ，シンプルであること
+### 工夫点
+- シンプルさを追求
+### 使用技術
+- Android Java
+### 開発期間
+約1カ月
+### 開発形態
+個人開発
+### コード量
+約152行
+
+### GitHub
+[https://github.com/e1q23079/StereoTest](https://github.com/e1q23079/StereoTest)
+
 ## instantgram
-インスタのアカウントなしでインスタを見たかったので開発したChorome用の拡張機能
+インスタのアカウントなしでインスタを見たかったので開発したChrome用の拡張機能
 ### コンセプト
 インスタグラムにログインしないでインスタグラムを見る
 ### 仕様
 - インスタグラムのログイン画面を消す
 ### 新規性
 - ログイン画面の要素自体をJavaScriptで削除している
-- Chorome拡張として開発している
+- Chromeの拡張機能として開発している
 ### 工夫点・頑張った点
 - ログイン画面の要素のidの調査
 ### 使用技術
 - JavaScript
 ### 開発期間
-3日程度
+約3日
 ### 開発形態
 個人開発
 ### コード量
@@ -288,21 +295,20 @@ PCから離れたところから，PCを操作したいと思い開発
 
 ## ポルターガイスト現象システム
 謎解きの学生プロジェクト（MAGIOT）のメンバーで作成
-![img01.jpg](/files/img01.jpg)
+![ポルターガイスト01](/files/pol01.png)
 
-![img02.jpg](/files/img02.jpg)
-
-![img03.jpg](/files/img03.jpg)
+![ポルターガイスト02](/files/pol02.jpg)
 
 ぬいぐるみを落下させたり，ごみ箱を倒したり，金庫を開けたり...物騒なものを担当しています．
 ### 使用技術
 - M5Stick
+    ![m5Stick](/files/m5stick01.png)
     - Arduino言語
     - UDP通信
     - サーボモーター
 - 3Dプリンター
-    - Design Spark
-    - Fusion 360
+    - Designspark
+    - Autodesk Fusion
 - SVGデータ作成
     - Inkscape
 ### 工夫点・頑張った点
