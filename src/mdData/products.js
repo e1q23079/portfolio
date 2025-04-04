@@ -37,6 +37,13 @@ const productsText = `
 百人一首をいかに速く打てるかを競うタイピングゲーム
 
 [https://e1q23079.github.io/HKTyping/](https://e1q23079.github.io/HKTyping/)
+## MONDAIENSYU
+![mondaiEnsyu](/files/mondaiEnsyu.png)
+
+「基本情報技術者試験」など，試験の勉強を行う演習用WEBアプリケーション
+
+[https://e1q23079.github.io/mondaiEnsyu/play.html](https://e1q23079.github.io/mondaiEnsyu/play.html)
+
 ## HITSUDAN
 ![HITSUDAN](/files/HITSUDAN.png)
 
