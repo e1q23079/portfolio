@@ -67,6 +67,10 @@ const aboutText = `
 ## バックエンド技術
 ![](https://skillicons.dev/icons?i=docker) Docker
 
+![](https://skillicons.dev/icons?i=nodejs) Node.js
+
+![](https://skillicons.dev/icons?i=express) Express.js
+
 ![](https://skillicons.dev/icons?i=flask) Flask
 
 ![](https://skillicons.dev/icons?i=mysql) MySQL
