@@ -37,6 +37,12 @@ const productsText = `
 百人一首をいかに速く打てるかを競うタイピングゲーム
 
 [https://e1q23079.github.io/HKTyping/](https://e1q23079.github.io/HKTyping/)
+## ReCapture Tapper
+リキャプチャ認証を以下に早く攻略できるかを競うゲーム
+
+![rctImage](/files/rctImage.png)
+
+[準備中](準備中)
 ## MONDAIENSYU
 ![mondaiEnsyu](/files/mondaiEnsyu.png)
 
