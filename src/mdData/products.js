@@ -42,7 +42,7 @@ const productsText = `
 
 ![rctImage](/files/rctImage.png)
 
-[準備中](準備中)
+[https://recapture-tapper-gqhsb7e6huc6hvaq.canadacentral-01.azurewebsites.net/](https://recapture-tapper-gqhsb7e6huc6hvaq.canadacentral-01.azurewebsites.net/)
 ## MONDAIENSYU
 ![mondaiEnsyu](/files/mondaiEnsyu.png)
 
