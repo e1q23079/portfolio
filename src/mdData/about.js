@@ -81,6 +81,8 @@ const aboutText = `
 
 ![](https://skillicons.dev/icons?i=bots) DiscordBot
 
+![](https://skillicons.dev/icons?i=azure) Microsoft Azure
+
 ## 使用ツール
 ![](https://skillicons.dev/icons?i=git) Git
 
@@ -99,6 +101,8 @@ const aboutText = `
 ![](https://skillicons.dev/icons?i=figma) Figma
 
 ![](https://skillicons.dev/icons?i=powershell) PowerShell
+
+![](https://skillicons.dev/icons?i=bash) Bash
 
 ![](https://skillicons.dev/icons?i=postman) Postman
 
