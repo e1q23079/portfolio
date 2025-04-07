@@ -32,11 +32,13 @@ const aboutText = `
 - 基礎ゼミの動画編集を担当
 - 部内コンテスト2023で賞をゲット！！
 - IC科C演習の課題への取り組みの表彰（1位）
+- 大阪工業大学主催「マインクラフトBOTコンテスト」に参加
+    - https://www.oit.ac.jp/news/topics/topics9976.html
 - 謎解き学生プロジェクトの新メンバー教育の教材を作成
 - 「Name_not_set（現：「バズるトップ」）」プロジェクトを始動！！
 - HxSコンピュータ部でFlaskの勉強会を主催
 - 部内コンテスト2024で賞をゲット！！
-- KC3 Hack2025（ハッカソン）に参加
+- 関西情報系団体交流会主催「KC3 Hack2025（ハッカソン）」に参加
 - 情報科学部長表彰賞受賞
 
 ## よく使う言語
@@ -62,8 +64,6 @@ const aboutText = `
 
 ![](https://skillicons.dev/icons?i=react) React
 
-![](https://skillicons.dev/icons?i=npm) npm
-
 ## バックエンド技術
 ![](https://skillicons.dev/icons?i=docker) Docker
 
@@ -88,11 +88,15 @@ const aboutText = `
 
 ![](https://skillicons.dev/icons?i=github) GitHub
 
+![](https://skillicons.dev/icons?i=githubactions) GitHub Actions
+
 ![](https://skillicons.dev/icons?i=vscode) Visual Studio Code
 
 ![](https://skillicons.dev/icons?i=visualstudio) Visual Studio
 
 ![](https://skillicons.dev/icons?i=androidstudio) Android Studio
+
+![](https://skillicons.dev/icons?i=npm) npm
 
 ![](https://skillicons.dev/icons?i=arduino) arduino IDE
 
