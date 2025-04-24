@@ -13,6 +13,39 @@ const linksText = `
 [https://cdcs.oit.ac.jp/ic10/?p=651](https://cdcs.oit.ac.jp/ic10/?p=651)
 
 ※閲覧には学内ネットワークまたはVPNの接続が必要です．
+
+---
+
+## ラーニングサポートサイト
+閲覧には学内ネットワークまたはVPNの接続が必要です．
+
+#### | 「Flask勉強会」資料
+https://lss.oit.ac.jp/~e1q23079/web/10seconds/index.html
+
+#### | 「M5シリーズ×UDP勉強会」WEBページ
+https://lss.oit.ac.jp/~e1q23079/web/m5_zero/index.html
+
+クーポンコード：UDP2024
+
+#### | 「M5StickCPlus×UDP勉強会」資料
+https://lss.oit.ac.jp/~e1q23079/web/e-book/index.html?book=0xud20
+
+#### | 「M5Unified×UDP勉強会」資料
+https://lss.oit.ac.jp/~e1q23079/web/e-book/index.html?book=2xud20
+
+#### | 演習システム
+https://lss.oit.ac.jp/~e1q23079/web/ensyu/index.html
+
+#### | 百人一首競技タイピング
+https://lss.oit.ac.jp/~e1q23079/web/HKTyping_pre/index.html
+
+#### | 「部内コンテスト2024」スライド
+https://lss.oit.ac.jp/~e1q23079/web/e-book/index.html?book=0xfa06
+
+#### | プログラミングとエンタメ要素
+https://lss.oit.ac.jp/~e1q23079/web/e-book/index.html?book=0xfb08
+
+
 `
 
 export default linksText;
