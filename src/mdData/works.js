@@ -309,8 +309,6 @@ PCから離れたところから，PCを操作したいと思い開発
 - 3Dプリンター
     - Designspark
     - Autodesk Fusion
-- SVGデータ作成
-    - Inkscape
 ### 工夫点・頑張った点
 - サーボモーターの動力の向きを変える機構の作成
 
