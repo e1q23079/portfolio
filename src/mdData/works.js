@@ -125,6 +125,7 @@ Discord Botの開発を担当した．
 - フロントエンド
     - HTML
     - CSS
+    - Bootstrap
     - JavaScript
 - バックエンド
     - Python
