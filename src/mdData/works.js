@@ -295,7 +295,7 @@ PCから離れたところから，PCを操作したいと思い開発
 [https://github.com/e1q23079/yubiControl](https://github.com/e1q23079/yubiControl)
 
 ## 「遊霊ワンルームからの脱出」
-謎解きの学生プロジェクト（MAGIOT）のメンバーで作成
+謎解きの学生プロジェクト（MAGIOT）のメンバーで作成したポルターガイスト現象システム
 ![ポルターガイスト01](/files/pol01.png)
 
 ![ポルターガイスト02](/files/pol02.jpg)
