@@ -294,7 +294,7 @@ PCから離れたところから，PCを操作したいと思い開発
 ### GitHub
 [https://github.com/e1q23079/yubiControl](https://github.com/e1q23079/yubiControl)
 
-## ポルターガイスト現象システム
+## 「遊霊ワンルームからの脱出」
 謎解きの学生プロジェクト（MAGIOT）のメンバーで作成
 ![ポルターガイスト01](/files/pol01.png)
 
@@ -312,6 +312,11 @@ PCから離れたところから，PCを操作したいと思い開発
     - Autodesk Fusion
 ### 工夫点・頑張った点
 - サーボモーターの動力の向きを変える機構の作成
+### 動画
+- デモプレイ
+    - https://youtu.be/9rlT2fYRkhg
+- メイキング映像
+    - https://youtu.be/47vlNDix_Ug
 
 ## 基礎ゼミの文化祭動画編集
 基礎ゼミで，各チームが作成したアニメーションの総集編の作成を行いました．
