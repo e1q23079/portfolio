@@ -50,6 +50,8 @@ const aboutText = `
 
 ![](https://skillicons.dev/icons?i=js) JavaScript
 
+![](https://skillicons.dev/icons?i=ts) TypeScript
+
 ![](https://skillicons.dev/icons?i=arduino) Arduino言語
 
 
