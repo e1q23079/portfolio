@@ -131,7 +131,7 @@ const aboutText = `
 
 ![](https://skillicons.dev/icons?i=pytorch) PyTorch
 
-![](http://localhost:3000/portfolio/files/m5stick.png) M5Stick
+![](https://github.com/e1q23079/portfolio/blob/main/public/files/m5stick.png?raw=true) M5Stick
 
 ## このポートフォリオについて
 このポートフォリオはReactで作成し，GitHub Pagesにデプロイしています．
