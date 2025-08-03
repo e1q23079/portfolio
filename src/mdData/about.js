@@ -41,6 +41,7 @@ const aboutText = `
 - 関西情報系団体交流会主催「KC3 Hack2025（ハッカソン）」に参加
 - 情報科学部長表彰賞受賞
 - 「ソフトウェア工学演習」投票にて２位
+    - https://github.com/e1q23079/c1-byot
 
 ## よく使う言語
 ![](https://skillicons.dev/icons?i=c) C言語
