@@ -42,7 +42,10 @@ const productsText = `
 
 ![rctImage](/files/rctImage.png)
 
-[https://recapture-tapper-gqhsb7e6huc6hvaq.canadacentral-01.azurewebsites.net/](https://recapture-tapper-gqhsb7e6huc6hvaq.canadacentral-01.azurewebsites.net/)
+- スコアが記録されるバージョン
+    - [https://recapture-tapper-gqhsb7e6huc6hvaq.canadacentral-01.azurewebsites.net/](https://recapture-tapper-gqhsb7e6huc6hvaq.canadacentral-01.azurewebsites.net/)
+- スコアが記録されないバージョン
+    - https://e1q23079.github.io/ReCapture-Tapper2/
 ## MONDAIENSYU
 ![mondaiEnsyu](/files/mondaiEnsyu.png)
 
