@@ -68,6 +68,10 @@ const aboutText = `
 
 ![](https://skillicons.dev/icons?i=react) React
 
+![](https://skillicons.dev/icons?i=vue) Vue.js
+
+![](https://skillicons.dev/icons?i=vuetify) Vuetify
+
 ## バックエンド技術
 ![](https://skillicons.dev/icons?i=docker) Docker
 
@@ -113,6 +117,10 @@ const aboutText = `
 ![](https://skillicons.dev/icons?i=bash) Bash
 
 ![](https://skillicons.dev/icons?i=postman) Postman
+
+![](https://skillicons.dev/icons?i=vercel) Vercel
+
+![](https://skillicons.dev/icons?i=supabase) Supabase
 
 - Designspark Mechanical
 - Autodesk Fusion
