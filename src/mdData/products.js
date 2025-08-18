@@ -83,6 +83,14 @@ WEBでできるおみくじ
 現在の時刻がわかるWEBツール
 
 [https://e1q23079.github.io/clock/](https://e1q23079.github.io/clock/)
+
+## Q23079's blog
+![clock](/files/Q23079'sblog.png)
+
+Q23079のブログサイト
+
+https://e1q23079.vercel.app/
+
 `
 
 export default productsText;
