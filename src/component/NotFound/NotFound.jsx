@@ -2,6 +2,7 @@ import './NotFound.css';
 
 import Icon from '../../icon.png';
 
+// Notfound
 function NotFound() {
   return (
     <>

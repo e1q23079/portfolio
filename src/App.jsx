@@ -20,6 +20,7 @@ function App() {
 
   const location = useLocation();
 
+  // 日付取得
   const today = new Date();
 
   const year = today.getFullYear();

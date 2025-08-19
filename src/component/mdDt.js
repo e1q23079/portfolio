@@ -3,20 +3,22 @@ import worksText from "../mdData/works";
 import linksText from "../mdData/links";
 import productsText from "../mdData/products";
 
-function getAbout(){
+// マークダウンデータ取得
+
+function getAbout() {
     return aboutText;
 }
 
-function getWorks(){
+function getWorks() {
     return worksText;
 }
 
-function getLinks(){
+function getLinks() {
     return linksText;
 }
 
-function getProducts(){
+function getProducts() {
     return productsText;
 }
 
-export {getAbout,getWorks,getLinks,getProducts};
+export { getAbout, getWorks, getLinks, getProducts };

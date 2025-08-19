@@ -4,6 +4,7 @@ import ReactMarkdown from 'react-markdown';
 
 import remarkGfm from 'remark-gfm';
 
+// リンク
 const Link = ({ node, children, ...props }) => {
   if (props.href === 'https://e1q23079.github.io/portfolio/') {
     return <a href={props.href} target='_blank' rel='noreferrer'>{children}</a>;
@@ -12,6 +13,7 @@ const Link = ({ node, children, ...props }) => {
   }
 }
 
+// 画像
 const Image = ({ node, children, ...props }) => {
   if (props.alt !== '') {
     const newSrc = `${process.env.PUBLIC_URL}${props.src}`;
@@ -21,14 +23,18 @@ const Image = ({ node, children, ...props }) => {
   }
 }
 
+// H1タグ
 const H1 = ({ node, children, ...props }) => {
   return <h1><span className='section'>|</span> {children}</h1>
 }
 
+// H2タグ
 const H2 = ({ node, children, ...props }) => {
   return <h2><span className='section'>|</span> {children}</h2>
 }
 
+
+// マークダウン
 const Md = ({ text }) => {
   return (
     <>

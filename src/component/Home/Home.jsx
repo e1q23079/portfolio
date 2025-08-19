@@ -4,6 +4,7 @@ import Icon from '../../icon.png';
 
 import { motion } from 'framer-motion';
 
+// ホーム
 function Home() {
   return (
     <>

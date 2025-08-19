@@ -4,6 +4,7 @@ import './Navigation.css';
 
 import { Container, Nav, Navbar } from 'react-bootstrap';
 
+// ナビゲーション
 function Navigation() {
   return (
     <>
