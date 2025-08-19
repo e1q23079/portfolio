@@ -18,6 +18,7 @@ function Navigation() {
             <Nav className="me-auto">
               <Nav.Link href="#home" className='navLink'>Home</Nav.Link>
               <Nav.Link href="#about" className='navLink'>About</Nav.Link>
+              <Nav.Link href='https://e1q23079.vercel.app/' className='navLink'>Blog</Nav.Link>
               <Nav.Link href="#works" className='navLink'>Works</Nav.Link>
               <Nav.Link href="#products" className='navLink'>Products</Nav.Link>
               <Nav.Link href="#links" className='navLink'>Links</Nav.Link>
