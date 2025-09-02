@@ -94,7 +94,7 @@ https://e1q23079.vercel.app/
 ## Osaka Tokyo Weather
 ![clock](/files/OsakaTokyoWeather.png)
 
-OsakaTokyoWeatherは、大阪と東京の最新天気情報を取得し、時間帯ごとに背景が変化する美しいウェブページを表示するアプリケーションです。
+OsakaTokyoWeatherは，大阪と東京の最新天気情報を取得し，時間帯ごとに背景が変化する美しいウェブページを表示するアプリケーションです．
 
 https://e1q23079.github.io/OsakaTokyoWeather/
 
