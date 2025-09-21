@@ -83,6 +83,8 @@ const aboutText = `
 
 ![](https://skillicons.dev/icons?i=flask) Flask
 
+![](https://skillicons.dev/icons?i=django) Django
+
 ![](https://skillicons.dev/icons?i=mysql) MySQL
 
 ![](https://skillicons.dev/icons?i=sqlite) SQLite
