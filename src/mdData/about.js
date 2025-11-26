@@ -74,6 +74,8 @@ const aboutText = `
 
 ![](https://skillicons.dev/icons?i=vuetify) Vuetify
 
+![](https://skillicons.dev/icons?i=vite) Vite
+
 ## バックエンド技術
 ![](https://skillicons.dev/icons?i=docker) Docker
 
@@ -126,6 +128,12 @@ const aboutText = `
 
 ![](https://skillicons.dev/icons?i=supabase) Supabase
 
+![](https://skillicons.dev/icons?i=vim) Vim
+
+![](https://skillicons.dev/icons?i=vitest) Vitest
+
+![](https://skillicons.dev/icons?i=jest) Jest
+
 - Designspark Mechanical
 - Autodesk Fusion
 - Adobe Premiere Pro
@@ -135,6 +143,12 @@ const aboutText = `
 ![](https://skillicons.dev/icons?i=ubuntu) Ubuntu
 
 ![](https://skillicons.dev/icons?i=raspberrypi) Raspberrypi
+
+![](https://skillicons.dev/icons?i=windows) Windows
+
+![](https://skillicons.dev/icons?i=apple) macOS
+
+![](https://skillicons.dev/icons?i=aws) AWS
 
 ## その他
 ![](https://skillicons.dev/icons?i=md) MarkDown
