@@ -112,10 +112,10 @@ win10finは，Windows10のサポート終了を知らせるWEBアプリケーシ
 
 https://e1q23079.github.io/win10fin/
 
-## 終わってる適正検査
+## 終わってる適性検査
 ![tekisei-owatta](/files/tekisei-owatta.png)
 
-終わってる適正検査は，ユニークな質問を通じて，あなたの適正を適当に診断するWEBアプリケーションです．
+終わってる適性検査は，ユニークな質問を通じて，あなたの適性を適当に診断するWEBアプリケーションです．
 
 https://tekisei-owatta-g5dpcud0bfhvgqc3.japanwest-01.azurewebsites.net/
 
