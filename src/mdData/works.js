@@ -59,7 +59,8 @@ const worksText = `
 約3984行
 
 ### ホームページ
-[https://momijiworks.me/](https://momijiworks.me/)
+~https://momijiworks.me/~
+※現在は公開終了しています．
 ### GitHub
 [https://github.com/kc3hack/2025_22](https://github.com/kc3hack/2025_22)
 

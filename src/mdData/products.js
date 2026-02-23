@@ -24,7 +24,8 @@ const productsText = `
     ![mtsik03](/files/mtsik03.png)
     - パズルや暗号を解読し，隠された宝の手がかりを見つけよう！
 ### 公式サイト
-[https://momijiworks.me/](https://momijiworks.me/)
+~https://momijiworks.me/~
+※現在は公開終了しています．
 ## Pomodoro Manager
 ![PomodoroManager](/files/PomodoroManager.png)
 
@@ -43,7 +44,8 @@ const productsText = `
 ![rctImage](/files/rctImage.png)
 
 - スコアが記録されるバージョン
-    - [https://recapture-tapper-gqhsb7e6huc6hvaq.canadacentral-01.azurewebsites.net/](https://recapture-tapper-gqhsb7e6huc6hvaq.canadacentral-01.azurewebsites.net/)
+    - ~https://recapture-tapper-gqhsb7e6huc6hvaq.canadacentral-01.azurewebsites.net/~
+    - 現在は公開終了しています．
 - スコアが記録されないバージョン
     - https://e1q23079.github.io/ReCapture-Tapper2/
 ## MONDAIENSYU
