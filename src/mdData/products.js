@@ -121,6 +121,15 @@ https://e1q23079.github.io/win10fin/
 
 https://tekisei-owatta-g5dpcud0bfhvgqc3.japanwest-01.azurewebsites.net/
 
+
+## GXPass
+![GXPass](/files/GXPass.png)
+
+GXPassは，エンジニアのためのスキル可視化WEBアプリケーションです．
+
+https://gxpass.h-x-s.dev/
+
+
 `
 
 export default productsText;

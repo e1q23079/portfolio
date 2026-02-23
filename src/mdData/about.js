@@ -45,6 +45,7 @@ const aboutText = `
 |2025年 春|MAGIOTでM5Stick講習（UDP通信編）を担当|
 |2025年 春|「ソフトウェア工学演習」で作成した「[c1-byot](https://github.com/e1q23079/c1-byot)」が投票にて２位！！|
 |2026年 冬|情報科学演習Ⅲ 移動ロボット競技（第1クール）表彰 （第1位）|
+|2026年 春|[関西情報系団体交流会主催「KC3 Hack2026（ハッカソン）」](https://kc3.me/hack/hack2026/)に参加|
 
 ## よく使う言語
 ![](https://skillicons.dev/icons?i=c) C言語
