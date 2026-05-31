@@ -62,6 +62,20 @@ https://lss.oit.ac.jp/~e1q23079/web/Slide_Share_System/system/live_shere?xhso242
 #### | プログラミングとエンタメ要素
 https://lss.oit.ac.jp/~e1q23079/web/e-book/index.html?book=0xfb08
 
+---
+
+## SeminarBase2 for OIT Campus Edition
+
+https://150.89.253.109/
+
+閲覧には学内ネットワークまたはVPNの接続および専用アカウントが必要です．
+
+#### | サンプルセミナー
+https://150.89.253.109/lecture/858d668d-d523-44f2-9d34-c4af305dd4fc
+
+#### | C言語 基礎学習資料（サンプル）
+https://150.89.253.109/lecture/a84b6be8-8141-4e43-b8a6-b6d61f1b81ee
+
 
 `
 
