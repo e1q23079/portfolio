@@ -1,6 +1,7 @@
 import aboutText from "../mdData/about";
 import worksText from "../mdData/works";
 import linksText from "../mdData/links";
+import toolsText from "../mdData/tools";
 import productsText from "../mdData/products";
 
 // マークダウンデータ取得
@@ -21,4 +22,8 @@ function getProducts() {
     return productsText;
 }
 
-export { getAbout, getWorks, getLinks, getProducts };
+function getTools() {
+    return toolsText;
+}
+
+export { getAbout, getWorks, getLinks, getProducts, getTools };

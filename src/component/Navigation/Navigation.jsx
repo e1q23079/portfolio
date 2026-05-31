@@ -22,6 +22,7 @@ function Navigation() {
               <Nav.Link href='https://e1q23079.vercel.app/' className='navLink'>Blog</Nav.Link>
               <Nav.Link href="#works" className='navLink'>Works</Nav.Link>
               <Nav.Link href="#products" className='navLink'>Products</Nav.Link>
+              <Nav.Link href="#tools" className='navLink'>Tools</Nav.Link>
               <Nav.Link href="#links" className='navLink'>Links</Nav.Link>
             </Nav>
           </Navbar.Collapse>
