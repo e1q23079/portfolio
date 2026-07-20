@@ -132,7 +132,7 @@ https://gxpass.h-x-s.dev/
 ## SeminarBase2 for OIT Campus Edition
 ![SeminarBase2](/files/SeminarBase2.png)
 
-https://150.89.253.109/
+https://lss.oit.ac.jp/~e1q23079/SeminarBase2/
 
 閲覧には学内ネットワークまたはVPNの接続および専用アカウントが必要です．
 
